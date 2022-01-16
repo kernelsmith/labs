@@ -1,6 +1,6 @@
 # GoPro Labs
 
-Learn more about the GoPro Labs [QR Control](control) features.
+Learn more about the GoPro Labs [QR Control](docs/control) features.
 
 [GoPro Labs](https://gopro.com/labs) information and links to the community pages.
 
